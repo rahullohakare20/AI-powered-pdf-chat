@@ -3,6 +3,8 @@
 This is an open-source Streamlit app that allows you to upload a PDF and ask natural language questions about its content. Powered by Hugging Face transformers and vector search using FAISS.
 
 ---
+![AI-powered-pdf-screenshot](./ai-powered-pdf.png)
+---
 
 ## 🚀 Features
 
